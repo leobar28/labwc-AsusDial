@@ -1,6 +1,6 @@
 # labwc-AsusDial
 
-On-screen dial overlay and **per-app profiles** for the **ASUS Dial** (ProArt Studiobook and similar) on Linux / Wayland — built and tested on Fedora Budgie with the **labwc** compositor.
+**Vibe-coded** On-screen dial overlay and **per-app profiles** for the **ASUS Dial** (ProArt Studiobook and similar) on Linux / Wayland — built and tested on Fedora Budgie with the **labwc** compositor.
 
 Press the Dial, a ring appears, turn it to pick a function (scroll, volume, brightness, zoom, tab switching, your own shortcuts or commands), press again to confirm. Each app can have its own set of functions.
 
